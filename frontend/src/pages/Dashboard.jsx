@@ -142,7 +142,7 @@ const Dashboard = () => {
                 }}
               >
                 <Sparkles style={{ width: 14, height: 14, color: "#fbbf24" }} />
-                <span>HireVeda Enterprise SaaS Platform</span>
+                <span>HireVeda Platform</span>
               </div>
               <h1
                 style={{
